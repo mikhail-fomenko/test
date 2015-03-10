@@ -1,3 +1,3 @@
 <?
-echo "test-123";
+echo "test";
 ?>
